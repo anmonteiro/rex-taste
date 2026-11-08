@@ -1,0 +1,39 @@
+# Taste light, derived from vim-taste with taste_light_brightness = 3.
+# https://github.com/jordwalke/vim-taste/blob/3d2990876be923856b539d509a8d83d2ca447760/colors/taste.vim
+
+# Vim's Normal and Visual backgrounds, with Normal text for selections.
+background = #f2f2f2
+foreground = #666666
+selection-background = #dbd6df
+selection-foreground = #666666
+
+# Vim's Cursor highlight: blue with the buffer background as text.
+cursor-color = #3689e6
+cursor-text = #f2f2f2
+
+# Rex: preserve the standard xterm palette for colors 16-255.
+palette-generate = false
+palette-harmonious = false
+
+# Standard ANSI colors use Taste's light syntax hues. Yellow uses the darkest
+# banana shade: Vim's pale search backgrounds are too faint as terminal text.
+# Black and white retain conventional ANSI roles, using Taste's neutral bank.
+palette = 0=#333333
+palette = 1=#c6262e
+palette = 2=#3a9104
+palette = 3=#ad5f00
+palette = 4=#3689e6
+palette = 5=#7239b3
+palette = 6=#0d52bf
+palette = 7=#d4d4d4
+
+# Bright accents use deeper shades from the same color bank for emphasis on
+# light backgrounds. Yellow already uses its darkest shade, so it is repeated.
+palette = 8=#666666
+palette = 9=#a10705
+palette = 10=#206b00
+palette = 11=#ad5f00
+palette = 12=#0d52bf
+palette = 13=#452981
+palette = 14=#002e99
+palette = 15=#fafafa

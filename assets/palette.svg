@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="592" viewBox="0 0 1120 592" role="img" aria-labelledby="title desc">
+<title id="title">Taste dark and light palettes</title>
+<desc id="desc">The background, foreground, selection, cursor, and sixteen ANSI colors for each Rex theme.</desc>
+<g transform="translate(0 0)" font-family="ui-monospace, Menlo, Consolas, monospace" fill="#d4d4d4">
+<rect width="1120" height="296" fill="#303030"/>
+<text x="28" y="36" font-size="23" font-weight="bold">Taste</text>
+<text x="28" y="65" font-size="14">Background #303030 · Foreground #d4d4d4</text>
+<rect x="667" y="18" width="164" height="28" rx="3" fill="#464646"/>
+<text x="680" y="37" font-size="14" fill="#d4d4d4">Selected text</text>
+<text x="856" y="37" font-size="14">Cursor</text>
+<rect x="920" y="18" width="18" height="28" fill="#cccccc"/>
+<text x="925" y="37" font-size="14" fill="#111111">a</text>
+<text x="28" y="88" font-size="12">00 Black</text>
+<rect x="28" y="98" width="118" height="34" rx="3" fill="#202020"/>
+<text x="28" y="153" font-size="13">#202020</text>
+<text x="161" y="88" font-size="12">01 Red</text>
+<rect x="161" y="98" width="118" height="34" rx="3" fill="#f58c84"/>
+<text x="161" y="153" font-size="13">#f58c84</text>
+<text x="294" y="88" font-size="12">02 Green</text>
+<rect x="294" y="98" width="118" height="34" rx="3" fill="#a5d75a"/>
+<text x="294" y="153" font-size="13">#a5d75a</text>
+<text x="427" y="88" font-size="12">03 Yellow</text>
+<rect x="427" y="98" width="118" height="34" rx="3" fill="#fadf78"/>
+<text x="427" y="153" font-size="13">#fadf78</text>
+<text x="560" y="88" font-size="12">04 Blue</text>
+<rect x="560" y="98" width="118" height="34" rx="3" fill="#78bcfb"/>
+<text x="560" y="153" font-size="13">#78bcfb</text>
+<text x="693" y="88" font-size="12">05 Magenta</text>
+<rect x="693" y="98" width="118" height="34" rx="3" fill="#c9a2f4"/>
+<text x="693" y="153" font-size="13">#c9a2f4</text>
+<text x="826" y="88" font-size="12">06 Cyan</text>
+<rect x="826" y="98" width="118" height="34" rx="3" fill="#5e9df2"/>
+<text x="826" y="153" font-size="13">#5e9df2</text>
+<text x="959" y="88" font-size="12">07 White</text>
+<rect x="959" y="98" width="118" height="34" rx="3" fill="#e4e4e4"/>
+<text x="959" y="153" font-size="13">#e4e4e4</text>
+<text x="28" y="187" font-size="12">08 Bright Black</text>
+<rect x="28" y="197" width="118" height="34" rx="3" fill="#565656"/>
+<text x="28" y="252" font-size="13">#565656</text>
+<text x="161" y="187" font-size="12">09 Bright Red</text>
+<rect x="161" y="197" width="118" height="34" rx="3" fill="#e25256"/>
+<text x="161" y="252" font-size="13">#e25256</text>
+<text x="294" y="187" font-size="12">10 Bright Green</text>
+<rect x="294" y="197" width="118" height="34" rx="3" fill="#d6fb8b"/>
+<text x="294" y="252" font-size="13">#d6fb8b</text>
+<text x="427" y="187" font-size="12">11 Bright Yellow</text>
+<rect x="427" y="197" width="118" height="34" rx="3" fill="#fcf19c"/>
+<text x="427" y="252" font-size="13">#fcf19c</text>
+<text x="560" y="187" font-size="12">12 Bright Blue</text>
+<rect x="560" y="197" width="118" height="34" rx="3" fill="#9ad7fc"/>
+<text x="560" y="252" font-size="13">#9ad7fc</text>
+<text x="693" y="187" font-size="12">13 Bright Magenta</text>
+<rect x="693" y="197" width="118" height="34" rx="3" fill="#e1c8f8"/>
+<text x="693" y="252" font-size="13">#e1c8f8</text>
+<text x="826" y="187" font-size="12">14 Bright Cyan</text>
+<rect x="826" y="197" width="118" height="34" rx="3" fill="#4e8de2"/>
+<text x="826" y="252" font-size="13">#4e8de2</text>
+<text x="959" y="187" font-size="12">15 Bright White</text>
+<rect x="959" y="197" width="118" height="34" rx="3" fill="#ffffff"/>
+<text x="959" y="252" font-size="13">#ffffff</text>
+</g>
+<g transform="translate(0 296)" font-family="ui-monospace, Menlo, Consolas, monospace" fill="#666666">
+<rect width="1120" height="296" fill="#f2f2f2"/>
+<text x="28" y="36" font-size="23" font-weight="bold">Taste Light</text>
+<text x="28" y="65" font-size="14">Background #f2f2f2 · Foreground #666666</text>
+<rect x="667" y="18" width="164" height="28" rx="3" fill="#dbd6df"/>
+<text x="680" y="37" font-size="14" fill="#666666">Selected text</text>
+<text x="856" y="37" font-size="14">Cursor</text>
+<rect x="920" y="18" width="18" height="28" fill="#3689e6"/>
+<text x="925" y="37" font-size="14" fill="#f2f2f2">a</text>
+<text x="28" y="88" font-size="12">00 Black</text>
+<rect x="28" y="98" width="118" height="34" rx="3" fill="#333333"/>
+<text x="28" y="153" font-size="13">#333333</text>
+<text x="161" y="88" font-size="12">01 Red</text>
+<rect x="161" y="98" width="118" height="34" rx="3" fill="#c6262e"/>
+<text x="161" y="153" font-size="13">#c6262e</text>
+<text x="294" y="88" font-size="12">02 Green</text>
+<rect x="294" y="98" width="118" height="34" rx="3" fill="#3a9104"/>
+<text x="294" y="153" font-size="13">#3a9104</text>
+<text x="427" y="88" font-size="12">03 Yellow</text>
+<rect x="427" y="98" width="118" height="34" rx="3" fill="#ad5f00"/>
+<text x="427" y="153" font-size="13">#ad5f00</text>
+<text x="560" y="88" font-size="12">04 Blue</text>
+<rect x="560" y="98" width="118" height="34" rx="3" fill="#3689e6"/>
+<text x="560" y="153" font-size="13">#3689e6</text>
+<text x="693" y="88" font-size="12">05 Magenta</text>
+<rect x="693" y="98" width="118" height="34" rx="3" fill="#7239b3"/>
+<text x="693" y="153" font-size="13">#7239b3</text>
+<text x="826" y="88" font-size="12">06 Cyan</text>
+<rect x="826" y="98" width="118" height="34" rx="3" fill="#0d52bf"/>
+<text x="826" y="153" font-size="13">#0d52bf</text>
+<text x="959" y="88" font-size="12">07 White</text>
+<rect x="959" y="98" width="118" height="34" rx="3" fill="#d4d4d4"/>
+<text x="959" y="153" font-size="13">#d4d4d4</text>
+<text x="28" y="187" font-size="12">08 Bright Black</text>
+<rect x="28" y="197" width="118" height="34" rx="3" fill="#666666"/>
+<text x="28" y="252" font-size="13">#666666</text>
+<text x="161" y="187" font-size="12">09 Bright Red</text>
+<rect x="161" y="197" width="118" height="34" rx="3" fill="#a10705"/>
+<text x="161" y="252" font-size="13">#a10705</text>
+<text x="294" y="187" font-size="12">10 Bright Green</text>
+<rect x="294" y="197" width="118" height="34" rx="3" fill="#206b00"/>
+<text x="294" y="252" font-size="13">#206b00</text>
+<text x="427" y="187" font-size="12">11 Bright Yellow</text>
+<rect x="427" y="197" width="118" height="34" rx="3" fill="#ad5f00"/>
+<text x="427" y="252" font-size="13">#ad5f00</text>
+<text x="560" y="187" font-size="12">12 Bright Blue</text>
+<rect x="560" y="197" width="118" height="34" rx="3" fill="#0d52bf"/>
+<text x="560" y="252" font-size="13">#0d52bf</text>
+<text x="693" y="187" font-size="12">13 Bright Magenta</text>
+<rect x="693" y="197" width="118" height="34" rx="3" fill="#452981"/>
+<text x="693" y="252" font-size="13">#452981</text>
+<text x="826" y="187" font-size="12">14 Bright Cyan</text>
+<rect x="826" y="197" width="118" height="34" rx="3" fill="#002e99"/>
+<text x="826" y="252" font-size="13">#002e99</text>
+<text x="959" y="187" font-size="12">15 Bright White</text>
+<rect x="959" y="197" width="118" height="34" rx="3" fill="#fafafa"/>
+<text x="959" y="252" font-size="13">#fafafa</text>
+</g>
+</svg>
