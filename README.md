@@ -99,10 +99,8 @@ as above.
 
 ## Credits
 
-Based on [jordwalke/vim-taste](https://github.com/jordwalke/vim-taste) at
-`3d2990876be923856b539d509a8d83d2ca447760`, by Ramzi Akremi and Jordan Walke,
-with colors originating in the
-[elementary OS palette](https://elementary.io/brand). The dark Rex theme was
-first maintained in [anmonteiro/dotfiles](https://github.com/anmonteiro/dotfiles).
+Based on [jordwalke/vim-taste](https://github.com/jordwalke/vim-taste) by
+Jordan Walke, with colors originating in the
+[elementary OS palette](https://elementary.io/brand).
 
 Released under the [MIT license](LICENSE), retaining the upstream notice.
